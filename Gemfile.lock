@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    review (1.7.1)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  review
+
+BUNDLED WITH
+   1.11.0
