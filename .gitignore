@@ -85,3 +85,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Project
+
+# Build files
+*.txt
+*.tex
+*.html
+*.xml
