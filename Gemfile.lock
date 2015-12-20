@@ -1,12 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    eim_xml (0.0.4)
+    math_ml (0.14)
+      eim_xml
     review (1.7.1)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  math_ml
   review
 
 BUNDLED WITH
