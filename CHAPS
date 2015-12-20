@@ -5,4 +5,5 @@ tokenization.re
 marcov.re
 filtering-tankaes.re
 bayesian-filter.re
+study-and-classification.re
 bib.re
