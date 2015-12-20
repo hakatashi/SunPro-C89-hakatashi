@@ -3,4 +3,5 @@ about-takuboku.re
 restoration-summary.re
 tokenization.re
 marcov.re
+filtering-tankaes.re
 bib.re
